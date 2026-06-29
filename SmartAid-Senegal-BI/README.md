@@ -37,7 +37,6 @@ Le dossier `/1-SQL-Database` contient l'ensemble des scripts de création ainsi 
 4. **Performance Projets** : Matrice de suivi opérationnel avec **mise en forme conditionnelle** (Alertes visuelles Vert/Orange/Rouge) selon le taux de réussite.
 5. **Suivi Bailleurs** : Analyse des flux financiers par partenaire pour orienter la stratégie de plaidoyer et de levée de fonds.
 
-*(💡 Conseil : Ajoutez ici une ou deux images de votre dashboard avec la syntaxe `![Nom de la page](chemin/vers/image.png)`)*
 
 ---
 
@@ -66,4 +65,4 @@ Je suis actuellement à la recherche d'une opportunité en tant que **Data Analy
 
 * **Nom** : Mareme SECK  
 * **Email** : Seckmareme739@gmail.com  
-* **LinkedIn** : *[Ajoutez le lien vers votre profil ici]*
+* **LinkedIn** : *www.linkedin.com/in/marème-seck-0484aa20b*
